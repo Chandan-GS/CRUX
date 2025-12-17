@@ -42,28 +42,14 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAvaAGhnLZkOLfYYHu4FoBsOwCawIELDnc',
-    appId: '1:350428183769:android:158454f0dc9fd2cccbd2c8',
-    messagingSenderId: '350428183769',
-    projectId: 'quizly-flutter',
-    storageBucket: 'quizly-flutter.firebasestorage.app',
+   
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAdr8TEtdi7q94dBqivf-eD1AYd340D-Ko',
-    appId: '1:350428183769:ios:ed13c7e237e36037cbd2c8',
-    messagingSenderId: '350428183769',
-    projectId: 'quizly-flutter',
-    storageBucket: 'quizly-flutter.firebasestorage.app',
-    iosBundleId: 'com.example.quizly',
+   
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCgJOMz4UduKvXq9qUOXo0rML6Kk3M0btQ',
-    appId: '1:350428183769:web:5628dbade5f92fd3cbd2c8',
-    messagingSenderId: '350428183769',
-    projectId: 'quizly-flutter',
-    authDomain: 'quizly-flutter.firebaseapp.com',
-    storageBucket: 'quizly-flutter.firebasestorage.app',
+   
   );
 }
